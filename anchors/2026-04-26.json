@@ -1,0 +1,12 @@
+[
+  {
+    "anchor_version": "1.0.0",
+    "last_provenance_record_hash": "GENESIS",
+    "merkle_root": "NO_CERTIFICATIONS",
+    "timestamp_utc": "2026-04-26T03:59:50.891Z",
+    "total_certifications": 0,
+    "anchor_payload_hash_sha256": "37dbba1500b4c67cbfd1b0ae1d2d90d7d186081d77136efba0fe87fb472a2b03",
+    "ed25519_signature_b64": "YMITdN3QWk8EpDtzoJ4sdyfXVnhrNP5+yZxryrfyFjKOxv714WAgWeaicGbSIlOvwZbi3rrJaVlLS6b2RuOkCg==",
+    "signing_kid": "2026-Q1"
+  }
+]
